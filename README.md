@@ -75,7 +75,7 @@
 
 ### DevOps
 
--  **Container**: Docker
+-  **Container**: Containerd
 
 -  **Orchestration**: Kubernetes
 
@@ -404,7 +404,7 @@ src/
 
 	- 코딩 컨벤션 준수 여부 확인
 
-4. 품질 게이트 통과 시 Docker 이미지 생성
+4. 품질 게이트 통과 시 Container 이미지 생성
 
 5. Harbor에 이미지 푸시 및 취약점 스캔
 
